@@ -1,0 +1,23 @@
+title {
+  color: pink;
+  text-align: center;
+  font-style: bold;
+  font-weight: 300;
+}
+body {
+  font-family: "comic sans ms" ;
+}
+.this{
+  font-size: 36px;
+}
+.list{
+  line-height: 2px;
+}
+h1{
+  color: pink;
+
+}
+.helado {
+  font-style: italic;
+  
+}
